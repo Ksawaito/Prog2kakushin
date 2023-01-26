@@ -1,6 +1,8 @@
 # Prog2kakushin
 プログラミングⅡのGoogle colabを保存するためのリポジトリ
-### 1.[WORK1][WORK1]: https://github.com/Ksawaito/Prog2kakushin/blob/main/work1.ipynb (pandasを使ってサッカーのフランス代表25人のデータ分析をしています)
+### 1.[WORK1]
+[WORK1]: https://github.com/Ksawaito/Prog2kakushin/blob/main/work1.ipynb
+    (pandasを使ってサッカーのフランス代表25人のデータ分析をしています)
 ### 2.[WORK2]
 [WORK2]: https://github.com/Ksawaito/Prog2kakushin/blob/main/work2.ipynb
 ### 3.[WORK3]
