@@ -7,4 +7,4 @@ pandasを使ってサッカーのフランス代表25人のデータ分析をし
 numpyを使ってグラフに絵文字の絵を書きました。linspaceとarangeを使用してグラフを作っています。因みに絵文字＼(^o^)／は日本発祥です。
 ### [WORK3]
 [WORK3]: https://github.com/Ksawaito/Prog2kakushin/blob/main/work3.ipynb
-opencvを使って
+opencvを使ってドット絵を効率よく作れるようなプログラムを作成しました。マインクラフトやマリオのドット絵の作成をしました。行列を理解するのに役立つシステムです。
