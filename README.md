@@ -10,3 +10,6 @@ numpyを使ってグラフに絵文字の絵を書きました。linspaceとaran
 ### [WORK3]
 [WORK3]: https://github.com/Ksawaito/Prog2kakushin/blob/main/work3.ipynb
 opencvを使ってドット絵を効率よく作れるようなプログラムを作成しました。マインクラフトやマリオのドット絵の作成をしました。行列を理解するのに役立つシステムです。
+
+# 参考資料
+- オワタ https://dic.nicovideo.jp/a/%5C%28%5Eo%5E%29%2F
